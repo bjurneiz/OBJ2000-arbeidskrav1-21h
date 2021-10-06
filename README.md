@@ -40,10 +40,6 @@ den klønete trekanten vokser<br>
 snorker den ville læreren
 
 Programmet må altså skille mellom de fire ordtypene og sette dem sammen i riktig rekkefølge.
-For å lage tilfeldige tall brukes metoden Math.random( ). Denne returnerer et desimaltall mellom 0 og 1. For å få et heltall, må vi multiplisere og konvertere til int. 
-
-Eksempelet nedenfor vil for eksempel gi tilfeldige tall mellom 0 og 100:
-int tilfeldigtall = (int)Math.random( )*100;
 
 <h2>Preview:</h2>
 
